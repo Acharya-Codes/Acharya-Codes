@@ -2,7 +2,7 @@
 
 # ⚡ Hey, I'm Acharya N 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Learning+One+Commit+at+a+Time;Future+Machine+Learning+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+&26+Science+Student;Python+Developer;Learning+One+Commit+at+a+Time;Future+Machine+Learning+Engineer" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Acharya-Codes&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 
