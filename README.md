@@ -1,32 +1,37 @@
 <div align="center">
 
-# ⚡ Hey, I'm Acharya N
+# ⚡ Acharya N
 
-### Computer Science Student @ IIIT Sri City
+### Computer Science Engineering Student @ IIIT Sri City
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+Student;Learning+by+Building;Exploring+AI+%26+Machine+Learning;One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+Student;Building+Projects+%26+Learning;Exploring+AI+%26+Machine+Learning;Learning+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Acharya-Codes&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Acharya-Codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🎓 **CSE student at IIIT Sri City**
+I'm **Acharya**, a Computer Science Engineering student at **IIIT Sri City**.
 
-💻 Building a strong foundation in **C, Python, JavaScript & React**
+I'm currently focused on building strong fundamentals in programming and software development while gradually exploring the world of **AI and Machine Learning**.
 
-🧠 Exploring **Data Science, AI & Machine Learning**
+```text
+🎓  CSE @ IIIT Sri City
+💻  Learning by building
+🧠  Interested in AI / ML
+🚀  Hackathons & real-world projects
+🐧  Exploring Linux & developer tools
+🌱  Improving one project at a time
+```
 
-🚀 I learn by **building projects, breaking things, debugging them, and documenting what I learn**
+I believe the best way to learn programming is:
 
-🌱 Currently focused on strengthening my **programming, problem-solving and software development fundamentals**
-
-🎯 Long-term goal: **Become a strong AI/ML engineer and build useful real-world systems**
+> **Learn → Build → Break → Debug → Understand → Repeat.**
 
 ---
 
@@ -35,64 +40,90 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript" />
 </p>
 
-### Development & Tools
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-### Data & AI
+### Data & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🚀 What I'm Currently Working On
+
+* 💻 Strengthening **C and Python**
+* 🌐 Building projects with **JavaScript and React**
+* 🐧 Learning **Linux and command-line tools**
+* 📊 Exploring **NumPy, Pandas and data visualization**
+* 🤖 Starting my journey into **Machine Learning**
+* 🧩 Improving **Data Structures & Algorithms**
+* 🚀 Participating in **hackathons and collaborative projects**
+* 🔧 Becoming better at using **Git & GitHub**
+
+---
+
+## 📚 Learning Roadmap
 
 ```text
-C / Programming Fundamentals     █████████░  Building
-Python                           █████████░  Stronging
-JavaScript                       ███████░░░  Intermediate
-React                            █████░░░░░  Learning
-NumPy & Pandas                   █████░░░░░  Learning
-Machine Learning                 ██░░░░░░░░  Exploring
-Linux                            ████░░░░░░  Learning
-Git & GitHub                     ███████░░░  Practicing
+Programming Fundamentals
+        │
+        ▼
+C / Python / JavaScript
+        │
+        ▼
+Data Structures & Algorithms
+        │
+        ▼
+Web Development
+        │
+        ▼
+NumPy → Pandas → Matplotlib
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+AI / ML Projects
 ```
 
-> Progress bars are approximate and mainly represent what I'm currently focusing on.
-
 ---
 
-## 🚀 What I'm Working On
+## 📂 Projects & Learning Repositories
 
-* 🐍 Strengthening **Python & C programming**
-* ⚛️ Learning **React and modern frontend development**
-* 🐧 Getting comfortable with **Linux and the command line**
-* 🤖 Exploring **Machine Learning and AI**
-* 🧩 Building projects through **hackathons and college work**
-* 🌐 Learning how to design and build **complete web applications**
-* 🛠️ Improving my **Git, GitHub and collaborative development workflow**
+### 🐍 Programming
 
----
+* **Python Learning** — Python fundamentals and problem solving
+* **C-Language-Learn** — C programming and core concepts
 
-## 📂 Featured Learning Repositories
+### 📊 Data Science
 
-| Repository            | What I'm Learning                     |
-| --------------------- | ------------------------------------- |
-| 🐍 Python Learning    | Python fundamentals & problem solving |
-| 💻 C-Language-Learn   | C programming fundamentals            |
-| 🔢 NumPy              | Numerical computing                   |
-| 🐼 Pandas             | Data manipulation & analysis          |
-| 📊 Matplotlib         | Data visualization                    |
-| 🐧 Linux / Terminal   | Linux & command-line fundamentals     |
-| ⚛️ React Projects     | Frontend development                  |
-| 🚀 Hackathon Projects | Building real-world applications      |
+* **NumPy** — Numerical computing
+* **Pandas** — Data manipulation and analysis
+* **Matplotlib** — Data visualization
+
+### ⚛️ Web Development
+
+* **React Projects** — React and frontend development
+* **JavaScript Projects** — JavaScript fundamentals and DOM development
+
+### 🚀 Hackathons
+
+* Building practical applications under real time constraints
+* Working with Git, APIs, frontend frameworks and AI-assisted development
 
 ---
 
@@ -100,29 +131,19 @@ Git & GitHub                     ███████░░░  Practicing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Acharya-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Acharya-Codes&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acharya-Codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Acharya-Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acharya-Codes&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acharya-Codes&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=Acharya-Codes&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -130,37 +151,52 @@ Git & GitHub                     ███████░░░  Practicing
 
 ## 🎯 2026 Goals
 
-* [ ] Build a strong foundation in **C & Python**
-* [ ] Become comfortable with **JavaScript & React**
-* [ ] Strengthen **Data Structures & Algorithms**
+* [ ] Build a strong foundation in **C**
+* [ ] Become proficient in **Python**
+* [ ] Strengthen **JavaScript & React**
+* [ ] Improve **Data Structures & Algorithms**
 * [ ] Learn **NumPy, Pandas & Matplotlib**
 * [ ] Start **Machine Learning**
 * [ ] Build meaningful **AI/ML projects**
 * [ ] Participate in more **hackathons**
 * [ ] Contribute to **Open Source**
-* [ ] Build a portfolio of projects I'm genuinely proud of
+* [ ] Build a strong GitHub portfolio
 
 ---
 
-## 🧠 My Learning Philosophy
+## 💡 Beyond the Code
 
-> **Learn → Build → Break → Debug → Document → Repeat.**
+I'm interested in:
 
-I don't want to just collect technologies.
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🌐 Web Development
+💻 Systems & Programming
+🐧 Linux
+🚀 Hackathons
+🛠️ Building Useful Products
+```
 
-I want to understand how things work, build with them, and gradually become better at solving real problems.
+---
+
+## 📈 My Approach
+
+I don't want to just learn a list of technologies.
+
+I want to understand **why things work**, build something with them, encounter problems, debug those problems, and turn the experience into something I can reuse.
+
+Every project is another step forward.
 
 ---
 
 <div align="center">
 
-### ⚡ Thanks for stopping by!
-
-**Keep building. Keep learning. Keep shipping.**
+### ⚡ Keep Learning. Keep Building. Keep Shipping.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer" alt="Footer" />
 
 </div>
 
